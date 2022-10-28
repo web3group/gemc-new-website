@@ -12,7 +12,7 @@ export default function HomePage() {
     <>
       <div className="flex flex-col gap-6 justify-center items-center px-4 md:px-8 lg:px-16 py-4">
         <div className="font-semibold text-xl md:text-3xl text-center">
-          GRAND ESCAPE MEMBERS CLUB
+          GRAND ESCAPE MEMBERS CLUB NFT
         </div>
         <div className="font-semibold text-black bg-[#ffe817] w-fit px-2 py-1 rounded text-center">
           The new #1 Solana NFT Community
